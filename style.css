@@ -1,16 +1,25 @@
-.row1 {
-    background-color:#262626;
+.header2 {
+    background-color:#3366FF;
     text-align:center;
     font-size:400%;
     font-weight: bold;
     font-family:sans-serif;
-    color:white;
+    color:#00CCFF;
+}
+.rain1{
+    height:100px;
 }
 
- .col-md-2 {
-    background-color:#585858;
+body {
+    background-image: url("http://media.giphy.com/media/T337JxgyjSd4k/giphy.gif");
+    background-repeat: repeat-x;
 }
-
 .row2 {
     text-align:center;
+}
+
+.header2 {
+    background-color:#3366FF;
+    color:#00CCFF;
+    height:100px;
 }
